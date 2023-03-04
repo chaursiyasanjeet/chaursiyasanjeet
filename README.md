@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source.
 - 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on open source contribution.
-- my linked in profile<a href=https://www.linkedin.com/in/sanjeet-kumar-chaurasiya-9401a820a>linkedin</a>
+- <a href=https://www.linkedin.com/in/sanjeet-kumar-chaurasiya-9401a820a>Linked In</a>
 
 <!---
 chaursiyasanjeet/chaursiyasanjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

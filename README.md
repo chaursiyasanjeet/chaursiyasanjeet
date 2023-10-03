@@ -30,6 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaursiyasanjeet&show_icons=true&locale=en" alt="chaursiyasanjeet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaursiyasanjeet&" alt="chaursiyasanjeet" /></p>
+<img align="centre" src="https://holopin.me/chaursiyasanjeet"  alt="badges"/>
 
 <!---
 chaursiyasanjeet/chaursiyasanjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

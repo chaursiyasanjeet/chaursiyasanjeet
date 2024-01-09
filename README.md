@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjeet Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sanjeet</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7TKKImRT3NiD8IM0/giphy.gif">
